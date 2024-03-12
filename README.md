@@ -1,6 +1,6 @@
 <a name="br1"></a> 
 
-TIME SERIES ANALYSIS
+## TIME SERIES ANALYSIS
 
 • A time series is a sequence of measurements done over time, usually
 
@@ -22,7 +22,7 @@ takes at different times.
 
 <a name="br2"></a> 
 
-Time series analysis Flow
+## Time series analysis Flow
 
 Series Stationarity Identification
 
