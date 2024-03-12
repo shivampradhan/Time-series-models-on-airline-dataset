@@ -32,9 +32,7 @@ Check for possible outliers
 
 Check for the existence of a trend or seasonality
 
-Remove the trend and the seasonal component to get
-
-**stationary** residuals
+## Remove the trend and the seasonal component to get **stationary** residuals
 
 Estimation
 
@@ -48,7 +46,7 @@ Independency of error terms
 
 Constant error variance (Homoscedasticity)
 
-Forecasting
+## Forecasting
 
 Exponential smoothing methods
 
@@ -58,7 +56,7 @@ Minimum MSE forecasting
 
 <a name="br3"></a> 
 
-Stationarity
+### Stationarity
 
 The basic idea of stationarity is that the
 
@@ -98,7 +96,7 @@ Done by dividing the **series** by the trend values.
 
 <a name="br8"></a> 
 
-Seasonality
+## Seasonality
 
 •**Holt-Winter's Additive Method** − When the seasonality is additive in nature.
 
@@ -118,7 +116,7 @@ Eg. (“MAM”)multiplicative error, additive trend, and multiplicative seasonal
 
 <a name="br10"></a> 
 
-AR ,MA Modelling
+## AR ,MA Modelling
 
 the output variable depends [linearly](https://en.wikipedia.org/wiki/Linear_prediction)[ ](https://en.wikipedia.org/wiki/Linear_prediction)on its own previous values and on a [stochastic](https://en.wikipedia.org/wiki/Stochastic_variable)[ ](https://en.wikipedia.org/wiki/Stochastic_variable)term
 
